@@ -53,3 +53,18 @@ Experiment with different model architectures, hyperparameters, and data augment
 Automated pneumonia detection from X-ray images has the potential to revolutionize the healthcare industry by providing faster and more accurate diagnoses. This project demonstrates the effectiveness of deep learning models, especially Convolutional Neural Networks (CNNs), in this context. By continuously optimizing and fine-tuning the model, we can enhance its performance and contribute to better healthcare outcomes.
 
 We encourage contributions and feedback from the open-source community to further advance this project and its impact on the medical field.
+
+## Repository Structure
+
+```
+.
+|-- Data/
+|-- Project:Presentation_images/
+|-- .gitignore
+|-- LICENSE
+|-- Notebook.ipynb
+|-- README.md
+|-- paul_scratch.ipynb
+|-- presentation.pdf
+|-- ramsi_scratch.ipynb
+```
