@@ -18,17 +18,17 @@ After conducting an extensive evaluation of various models, including a baseline
 Upon thorough analysis of the performance metrics displayed in the visualization above, it becomes evident that our CNN model surpasses all others, achieving an exceptional accuracy and recall score of 100%. Consequently, our focus has shifted toward the CNN model as our primary candidate.
 
 
-![metrics](https://github.com/ramses02/PneumoniaNN/blob/main/project_images/allmodels_metrics.png)
+![metrics](https://github.com/ramses02/PneumoniaNN/blob/main/Project%3APresentation_images/allmodels_metrics.png)
 
 Below, we present the confusion matrix for the CNN model on the testing dataset, accompanied by the loss function and the aforementioned accuracy and recall metrics.
 
 CNN metrics:
 
-![CNNmetrics](https://github.com/ramses02/PneumoniaNN/blob/main/project_images/CNN_metrics.png)
+![CNNmetrics](https://github.com/ramses02/PneumoniaNN/blob/main/Project%3APresentation_images/CNN_metrics.png)
 
 CNN Confusion matrix:
 
-![CNNconfmat](https://github.com/ramses02/PneumoniaNN/blob/main/project_images/CNN_confmatrix.png)
+![CNNconfmat](https://github.com/ramses02/PneumoniaNN/blob/main/Project%3APresentation_images/CNN_confmatrix.png)
 
 
 
